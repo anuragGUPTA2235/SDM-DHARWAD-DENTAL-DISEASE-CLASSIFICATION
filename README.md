@@ -7,8 +7,10 @@
 ![image](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/03ba564d-c020-40ec-9922-419a9b87df08)
 ### Area Under Receiver Operating Characteristic (ROC) curve: <br/>
 ![multi_class_roc_curve](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/b6e70a34-a274-4fde-bac0-471f096665bf)
+### Confusion Matrices: <br/>
 ![train_con_matrix](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/493be413-4ef6-43b1-bbe1-91fc82582dab)
 ![test_con_matrix](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/ce51b266-d534-4fbd-81ab-89329d60c7b0)
+### Final Results: <br/>
 ![image](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/679c7bde-46de-41d0-af63-aed28a80565e)
 ![image](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/73370e9c-2113-4445-986a-a3a109e3a6f7)
 
