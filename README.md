@@ -8,6 +8,10 @@
 ![test_con_matrix](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/ce51b266-d534-4fbd-81ab-89329d60c7b0)
 ![class_wise_train](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/a9dd7987-9ab0-41aa-b836-bd389310f712)
 ![class_wise_accuracy_test](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/53f72212-9478-43b5-8fbd-eac385344d1c)
+![image](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/679c7bde-46de-41d0-af63-aed28a80565e)
+![image](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/73370e9c-2113-4445-986a-a3a109e3a6f7)
+
+
 
 
 
