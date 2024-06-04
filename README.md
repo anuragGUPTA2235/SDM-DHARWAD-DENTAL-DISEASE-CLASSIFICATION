@@ -1,4 +1,5 @@
 # SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION
+![imgonline-com-ua-twotoone-CpXFe1EYGLngZk](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/ada70ebf-f8f3-4f54-a470-0ddd912dd130)
 ## Dataset was collected from patients at sdm dharwad<br/>
 ### Dataset Description: <br/>
 ![1-class I-L](https://github.com/anuragGUPTA2235/SDM-DHARWAD-DENTAL-DISEASE-CLASSIFICATION/assets/161227082/32877346-1edd-4d80-ab70-e258f1a72258)
